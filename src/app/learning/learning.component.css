@@ -1,0 +1,9 @@
+.start-button {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+.start-button:hover {
+  border-color: grey;
+  color: grey;
+}
